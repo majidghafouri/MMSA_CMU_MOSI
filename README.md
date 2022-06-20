@@ -2,7 +2,7 @@
 
  Multimodal Sentiment Analysis Research project in collaboration with Biometric Research Lab, DTU
  
- BERT
+ Tools/Models/Paradigms: Tensorflow, Keras, BERT, CNN, RNN, LSTM, Attention, Self Attention, GRU and FUSION.
  
  Dataset: CMU-MOSI, CMU-MOSEI
  
